@@ -1,0 +1,38 @@
+body {
+    background-color: pink;
+}
+header {
+    background-color: violet;
+    font-size: 37px;
+    display: flex;
+    justify-content: center;
+    font-family:fantasy
+}
+h2 {
+    font-family:monospace;
+    font-size: 30px;
+}
+p {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.image {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    justify-content:space-around;
+
+}
+h3 {
+   font-family:monospace;
+   font-size: 25px;
+   background-color: white;
+}
+.video {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
